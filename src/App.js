@@ -43,9 +43,9 @@ function App() {
       <footer>
         Coded by <a href="https://github.com/zora-git">HJ Park</a>, code hosted
         on
-        <a href="https://github.com/zora-git/weather-forecast">GitHub</a>
+        <a href="https://github.com/zora-git/react-test">GitHub</a>
         and website hosted on
-        <a href="https://hj-weather-forecast.netlify.app">Netlify</a>
+        <a href="https://react-test-weather-dummy.netlify.app/">Netlify</a>
       </footer>
     </div>
   );
